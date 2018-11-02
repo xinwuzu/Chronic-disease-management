@@ -1,19 +1,18 @@
-## Chronic-disease-management「慢病管理」
+## Chronic-disease-management「慢病管理中的老年人信任行为分析」
 final information analysis report for graduation of IA002
 
 
 ### 项目概述
 
-- 团队项目协作仓库地址
+- [团队项目协作仓库地址](https://github.com/xinwuzu/Chronic-disease-management)
 - 项目简介
+随着老龄化的进一步加深。慢性病是一种持续或长期的健康状况或疾病。截止。。，中国有。。慢性病患者，尤其存在庞大的老龄化人口中。你经常会发现身边存在几个患高血压、糖尿病的长者。日常生活中，我们不难见到。为什么骗子们容易取得老年人的信任？关键问题之一是如何取得老年人的信任。这是我们本次信息分析课想探究的问题。
 - 项目执行计划（可后续更新）
-
+![](https://ws4.sinaimg.cn/large/006tNbRwgy1fwto6f59rzj30j20eugmq.jpg)
 ### 团队成员介绍
 
 - 分工：名号 + 所在战队 + GitHub Username + 项目仓库链接
 - 140 字以内的个人简介
-	
-### 其他招募需求
 
 
 ### CHANGELOG
@@ -49,4 +48,6 @@ Ps. 项目进展并非单线程运行，团队作战「人多力量大」，可�
 #### 问题 2
 
 1806xx 当前分析思路是...不知道是否可行...请问 @.. 还有其它建议吗？
+
+## 参考文献
 
