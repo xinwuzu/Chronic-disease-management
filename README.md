@@ -15,9 +15,10 @@ final information analysis report for graduation of IA002
 ![](https://ws4.sinaimg.cn/large/006tNbRwgy1fwto6f59rzj30j20eugmq.jpg)
 ### 团队成员介绍
 
-- 分工：名号 + 所在战队 + GitHub Username + 项目仓库链接
+- chenlin + 第九大区 | 逍遥游战队 + christyyoyo + [项目仓库链接](https://github.com/christyyoyo/IA002)
 - 140 字以内的个人简介
-
+- 山鬼 + 长三角大区 | 星云舰队 + xinwuzu + [项目仓库链接](https://github.com/AIHackers/IA002)
+- 140 字以内的个人简介
 
 ### CHANGELOG
 
