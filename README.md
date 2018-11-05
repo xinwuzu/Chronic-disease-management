@@ -26,6 +26,7 @@ final information analysis report for graduation of IA002
 - yoyo（队长） + 长三角大区 | 星云舰队队 + christyyoyo + [项目仓库链接](https://github.com/christyyoyo/IA002)
 - 山鬼 + 长三角大区 | 星云舰队 + xinwuzu + [项目仓库链接](https://github.com/AIHackers/IA002)
   
+  不安分的工程师，不留恋钢筋混凝土森林，总想窥探人类的内心世界
 
 ### CHANGELOG
 - 181104 确定选题，立项。
