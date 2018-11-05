@@ -1,4 +1,4 @@
-## Chronic-disease-management「慢病管理全局认识」
+## Chronic-disease-management「慢病管理类产品的全局认识」
 final information analysis report for graduation of IA002
 
 
