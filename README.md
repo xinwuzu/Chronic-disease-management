@@ -5,6 +5,10 @@ final information analysis report for graduation of IA002
 
 #### 中国人口结构变化拐点在即
 
+联合国 《世界人口前景 2010 修订本》 对中国人口的评估和预测作出了重大调整，一是下调了当前中国人口的总量，二是调整对中国人口未来趋势的判断。预测中国人口在 2026 年达到峰值 13.96 亿后迅速下降，到 2050 年时下降 到 12.95 亿。预测表明中国快速迈向老龄社会大势已定，无法逆转。
+![](https://ws4.sinaimg.cn/large/006tNbRwgy1fx0hcxr2inj30rg0g679j.jpg)
+
+
 #### 老年人慢病种类、疾患数据
 
 #### 老年人的应对现状
@@ -38,3 +42,5 @@ final information analysis report for graduation of IA002
 ### 讨论（未解决的问题和疑问）
 
 ### 参考文献
+
+1.联合国预测:中国快速走向老龄化，蔡泳
