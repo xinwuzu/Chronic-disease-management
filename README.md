@@ -34,3 +34,4 @@ final information analysis report for graduation of IA002
 ### CHANGELOG
 - 181104 确定选题，立项。
 - 181104 和山鬼讨论过后，yoyo重新梳理项目简介。
+- 181108 早，确定信息分析报告结构
